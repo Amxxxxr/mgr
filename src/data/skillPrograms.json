@@ -1,0 +1,8 @@
+[
+ {"id":"SKILL001","category":"Tailoring","months":3,"mode":"Offline","minAge":18,"docs":["aadhaar","mobile","address"],"location":"Chennai","registrationUrl":"#demo-registration",
+  "names":{"en":"Tailoring & Garment Making","ta":"தையல் மற்றும் ஆடை தயாரிப்பு","hi":"सिलाई और वस्त्र निर्माण","te":"కుట్టు మరియు దుస్తుల తయారీ","ml":"തയ്യലും വസ്ത്ര നിർമ്മാണവും","kn":"ಹೊಲಿಗೆ ಮತ್ತು ಉಡುಪು ತಯಾರಿ"}},
+ {"id":"SKILL002","category":"Digital","months":2,"mode":"Offline","minAge":18,"docs":["aadhaar","mobile"],"location":"Chennai","registrationUrl":"#demo-registration",
+  "names":{"en":"Computer Basics","ta":"கணினி அடிப்படைகள்","hi":"कंप्यूटर की बुनियादी बातें","te":"కంప్యూటర్ బేసిక్స్","ml":"കമ്പ്യൂട്ടർ അടിസ്ഥാനങ്ങൾ","kn":"ಕಂಪ್ಯೂಟರ್ ಮೂಲಭೂತ"}},
+ {"id":"SKILL003","category":"Beauty","months":3,"mode":"Offline","minAge":18,"docs":["aadhaar","mobile","address"],"location":"Chennai","registrationUrl":"#demo-registration",
+  "names":{"en":"Beauty & Wellness Training","ta":"அழகு மற்றும் நலப் பயிற்சி","hi":"ब्यूटी और वेलनेस प्रशिक्षण","te":"బ్యూటీ & వెల్నెస్ శిక్షణ","ml":"ബ്യൂട്ടി & വെൽനസ് പരിശീലനം","kn":"ಬ್ಯೂಟಿ & ವೆಲ್ನೆಸ್ ತರಬೇತಿ"}}
+]

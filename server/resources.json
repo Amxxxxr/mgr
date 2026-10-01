@@ -1,0 +1,7 @@
+[
+  { "id": "skill-india-digital", "type": "training", "name": "Skill India Digital Hub", "about": "Official national portal to find free and subsidised skill courses and certificates.", "url": "https://skillindiadigital.gov.in" },
+  { "id": "pmkvy", "type": "training", "name": "PMKVY short-term training", "about": "Central scheme for short skill courses (e.g. tailoring, beauty, data entry) with assessment and certificate.", "url": "https://www.pmkvyofficial.org" },
+  { "id": "naan-mudhalvan", "type": "training", "name": "Naan Mudhalvan (Tamil Nadu)", "about": "Tamil Nadu government skilling platform for students and youth.", "url": "https://www.naanmudhalvan.tn.gov.in" },
+  { "id": "ncs", "type": "jobs", "name": "National Career Service", "about": "Official government job portal: register, search jobs, career counselling.", "url": "https://www.ncs.gov.in" },
+  { "id": "nsdc", "type": "training", "name": "NSDC training partners", "about": "National Skill Development Corporation; lists approved training partners and centres.", "url": "https://nsdcindia.org" }
+]

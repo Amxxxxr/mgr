@@ -1,0 +1,6 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body{font-family:'Noto Sans','Noto Sans Tamil','Noto Sans Devanagari','Noto Sans Telugu','Noto Sans Malayalam','Noto Sans Kannada',system-ui,sans-serif;background:#EEF5F3;color:#12312F;font-size:19px;line-height:1.55}
+:focus-visible{outline:4px solid #F2A900;outline-offset:3px}
+@keyframes pulseRing{0%{box-shadow:0 0 0 0 rgba(220,38,38,.5)}100%{box-shadow:0 0 0 28px rgba(220,38,38,0)}}
+.pulse{animation:pulseRing 1.2s infinite}
+@media (prefers-reduced-motion:reduce){.pulse{animation:none}}

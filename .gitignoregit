@@ -1,0 +1,1 @@
+!.env.example  rm -r --cached node_modules
